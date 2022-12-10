@@ -12,7 +12,7 @@
     "build": "npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res"
   },
   "dependencies": {
-    "@shoutem/ui": "^1.0.4",
+    "@shoutem/ui": "^6.1.0",
     "native-base": "^2.13.8",
     "prop-types": "^15.7.2",
     "react": "16.9.0",
